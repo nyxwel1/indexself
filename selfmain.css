@@ -6,6 +6,7 @@ body {
   margin: 0 auto;
 }
 ul{
+    list-style-type: none;
   display: inline-block;
 }
 .nav_bar{
@@ -54,9 +55,6 @@ left:-1%
 }
 .bio img{
   height: 175px;
-}
-ul{
-  list-style-type: none;
 }
 .gallery2 img{
   width: 21%;
